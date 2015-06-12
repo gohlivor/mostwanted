@@ -8,7 +8,7 @@ Through an interactive console, the app will allow the border agent to:
 </ul>
 
 <p>
-<pre>
+<code>
 
 					-------------------------
 					|			|	
@@ -17,7 +17,7 @@ Through an interactive console, the app will allow the border agent to:
 	Luggage --->	X-Ray --->	|	Console		|	<----- Weapon Detection Web Service	<---- Azure ML
 					|			|					
 					-------------------------
-</pre>
+</code>
 
 <h2>Team Members</h2>
 Nathalie Goh-Livorness<br>
