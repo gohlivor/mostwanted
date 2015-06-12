@@ -9,38 +9,38 @@ Through an interactive console, the app will allow the border agent to:
 
 <p>
 <pre>
-                                -------------------------
-                                |                       |	
-   Traveler -->   Kinect --->   |                       |   <----- Oxford Similar Face API
-                                |                       |           |
-                                |     Most Wanted       |           |------- FBI Most Wanted
-                                |                       |
-                                |       Console         |
-   Luggage --->   X-Ray ---->   |                       |   <----- Weapon Detection Web Service
-                                |                       |           |
-                                |                       |           |------- Azure ML
-                                -------------------------
+                               -------------------------
+                               |                       |	
+  Traveler --> Kinect RGB ->   |                       |   <----- Oxford Similar Face API
+                               |                       |           |
+                               |     Most Wanted       |           |------- FBI Most Wanted
+                               |                       |
+                               |       Console         |
+  Luggage --->   X-Ray ---->   |                       |   <----- Weapon Detection Web Service
+                               |                       |           |
+                               |                       |           |------- Azure ML
+                               -------------------------
 </pre>
 <p>
 v2 will leverage Kinect's biometric scanning capabilities to identify travelers with abnormal temperature and heart rate, flagging potential Ebola sufferers for further health screening:
 <p>
 <pre>
-                                -------------------------
-                                |                       |	
-   Traveler --> Kinect RGB ->   |                       |   <----- Oxford Similar Face API
-                     |          |                       |           |
-                     |          |     Most Wanted       |           |------- FBI Most Wanted
-                     |          |                       | 
-                     |          |                       |           
-                    IR ----->   |                       |   <----- Sick Traveller Web Service
-                                |                       |           |
-                                |                       |           |------- Azure ML
-                                |                       |
-                                |       Console         |
-   Luggage --->   X-Ray ---->   |                       |   <----- Weapon Detection Web Service
-                                |                       |           |
-                                |                       |           |------- Azure ML
-                                -------------------------
+                               -------------------------
+                               |                       |	
+  Traveler --> Kinect RGB ->   |                       |   <----- Oxford Similar Face API
+                    |          |                       |           |
+                    |          |     Most Wanted       |           |------- FBI Most Wanted
+                    |          |                       | 
+                    |          |                       |           
+                   IR ----->   |                       |   <----- Sick Traveler Web Service
+                               |                       |           |
+                               |                       |           |------- Azure ML
+                               |                       |
+                               |       Console         |
+  Luggage --->   X-Ray ---->   |                       |   <----- Weapon Detection Web Service
+                               |                       |           |
+                               |                       |           |------- Azure ML
+                               -------------------------
 </pre>
 <h2>Team Members</h2>
 Nathalie Goh-Livorness<br>
