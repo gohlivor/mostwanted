@@ -8,7 +8,18 @@ Through an interactive console, the app will allow the border agent to:
 </ul>
 
 <p>
-'
+<table>
+<tr>
+  <td>                                -------------------------</td>
+</tr>
+<tr>
+  <td>                                |                       |</td>
+</tr>
+<tr>
+  <td>   Traveler -->   Kinect --->   |    Most Wanted        |   <----- Oxford Similar Face API      <---- FBI Most Wanted</td>
+</tr>
+</table>
+<p>
                                 -------------------------
                                 |                       |	
    Traveler -->   Kinect --->   |    Most Wanted	|   <----- Oxford Similar Face API      <---- FBI Most Wanted
