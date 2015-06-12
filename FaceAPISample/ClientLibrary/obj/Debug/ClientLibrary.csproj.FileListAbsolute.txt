@@ -1,7 +1,0 @@
-C:\Users\v-kehueb\Desktop\ClientLibrary\bin\Debug\ClientLibrary.dll
-C:\Users\v-kehueb\Desktop\ClientLibrary\bin\Debug\ClientLibrary.pdb
-C:\Users\v-kehueb\Desktop\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
-C:\Users\v-kehueb\Desktop\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
-C:\Users\v-kehueb\Desktop\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
-C:\Users\v-kehueb\Desktop\ClientLibrary\obj\Debug\ClientLibrary.dll
-C:\Users\v-kehueb\Desktop\ClientLibrary\obj\Debug\ClientLibrary.pdb
