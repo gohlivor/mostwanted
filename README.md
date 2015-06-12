@@ -8,6 +8,16 @@ Through an interactive console, the app will allow the border agent to:
 </ul>
 
 <p>
+<font face="courier new">
+
+					-------------------------
+					|			|	
+	Traveler --> 	Kinect --->	|    Most Wanted	|	<----- Project Oxford Similar Face API	<---- FBI Most Wanted
+					|			|
+	Luggage --->	X-Ray --->	|	Console		|	<----- Weapon Detection Web Service	<---- Azure ML
+					-------------------------					|			|					
+
+</font>
 
 <h2>Team Members</h2>
 Nathalie Goh-Livorness<br>
