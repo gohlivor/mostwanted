@@ -1,5 +1,5 @@
 # mostwanted
-MostWanted is the result of a TED Sync Week hackfest where we used <a href="https://www.projectoxford.ai/" target="_new">Project Oxford</a>'s facial recognition and machine learning APIs to begin building a modular system that helps border control agents maintain security. 
+MostWanted is the result of a TED Sync Week hackfest where we used <a target="_blank" href="https://www.projectoxford.ai/">Project Oxford</a>'s facial recognition and machine learning APIs to begin building a modular system that helps border control agents maintain security. 
 <p>
 Through an interactive console, the app will allow the border agent to:
 <ul>
