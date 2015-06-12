@@ -11,10 +11,14 @@ Through an interactive console, the app will allow the border agent to:
 <pre>
                                 -------------------------
                                 |                       |	
-   Traveler -->   Kinect --->   |    Most Wanted        |   <----- Oxford Similar Face API      <---- FBI Most Wanted
+   Traveler -->   Kinect --->   |                       |   <----- Oxford Similar Face API
+                                |                       |           |
+                                |     Most Wanted       |           |------- FBI Most Wanted
                                 |                       |
-   Luggage --->   X-Ray ---->   |        Console        |   <----- Weapon Detection Web Service <---- Azure ML
-                                |                       |					
+                                |       Console         |
+   Luggage --->   X-Ray ---->   |                       |   <----- Weapon Detection Web Service
+                                |                       |           |
+                                |                       |           |------- Azure ML
                                 -------------------------
 </pre>
 
